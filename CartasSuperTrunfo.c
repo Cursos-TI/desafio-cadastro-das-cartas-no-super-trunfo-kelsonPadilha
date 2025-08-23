@@ -68,7 +68,7 @@ scanf("%f", &area2);
 printf("digite o PIB:");
 scanf("%f", &PIB2);
 
-printf("digite o número de pontos turisticos");
+printf("digite o número de pontos turisticos:");
 scanf("%d", &pontos2);
 
 ///saida formatada
